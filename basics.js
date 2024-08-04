@@ -247,9 +247,11 @@ console.log(o.name.middlename)
 console.log(o.name.lastname)
 console.log(o.address.city,o.address.state,o.address.country)
 
+let s="adi"
+console.log(s.substring(2,3))
 
 
+console.log(1/2)
 
-
-
-
+let a="sdf"
+console.log(a[0])
